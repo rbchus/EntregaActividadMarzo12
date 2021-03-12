@@ -1,0 +1,13 @@
+D:\Sena2021\Trimetre1\Clases\AppConEmpleado\AppConEmpleado\bin\Debug\netcoreapp3.1\AppConEmpleado.exe
+D:\Sena2021\Trimetre1\Clases\AppConEmpleado\AppConEmpleado\bin\Debug\netcoreapp3.1\AppConEmpleado.deps.json
+D:\Sena2021\Trimetre1\Clases\AppConEmpleado\AppConEmpleado\bin\Debug\netcoreapp3.1\AppConEmpleado.runtimeconfig.json
+D:\Sena2021\Trimetre1\Clases\AppConEmpleado\AppConEmpleado\bin\Debug\netcoreapp3.1\AppConEmpleado.runtimeconfig.dev.json
+D:\Sena2021\Trimetre1\Clases\AppConEmpleado\AppConEmpleado\bin\Debug\netcoreapp3.1\AppConEmpleado.dll
+D:\Sena2021\Trimetre1\Clases\AppConEmpleado\AppConEmpleado\bin\Debug\netcoreapp3.1\AppConEmpleado.pdb
+D:\Sena2021\Trimetre1\Clases\AppConEmpleado\AppConEmpleado\obj\Debug\netcoreapp3.1\AppConEmpleado.csprojAssemblyReference.cache
+D:\Sena2021\Trimetre1\Clases\AppConEmpleado\AppConEmpleado\obj\Debug\netcoreapp3.1\AppConEmpleado.AssemblyInfoInputs.cache
+D:\Sena2021\Trimetre1\Clases\AppConEmpleado\AppConEmpleado\obj\Debug\netcoreapp3.1\AppConEmpleado.AssemblyInfo.cs
+D:\Sena2021\Trimetre1\Clases\AppConEmpleado\AppConEmpleado\obj\Debug\netcoreapp3.1\AppConEmpleado.csproj.CoreCompileInputs.cache
+D:\Sena2021\Trimetre1\Clases\AppConEmpleado\AppConEmpleado\obj\Debug\netcoreapp3.1\AppConEmpleado.dll
+D:\Sena2021\Trimetre1\Clases\AppConEmpleado\AppConEmpleado\obj\Debug\netcoreapp3.1\AppConEmpleado.pdb
+D:\Sena2021\Trimetre1\Clases\AppConEmpleado\AppConEmpleado\obj\Debug\netcoreapp3.1\AppConEmpleado.genruntimeconfig.cache
